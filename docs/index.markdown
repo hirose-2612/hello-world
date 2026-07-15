@@ -8,4 +8,4 @@ title: "ソフトウェア工学2026"
 
 ## 講義まとめ
 
-- [まとめ](softwareEng2026.html)
+- [まとめ]({{ '/softwareEng2026/' | relative_url }})
