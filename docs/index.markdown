@@ -3,10 +3,9 @@ layout: home
 title: "ソフトウェア工学2026"
 ---
 
-# ソフトウェア工学2026
 
 このサイトではソフトウェア工学で学んだ内容をまとめています。
 
 ## 講義まとめ
 
-- [まとめ](softwareEng2026.html)
+- [まとめ]({{ '/softwareEng2026/' | relative_url }})
